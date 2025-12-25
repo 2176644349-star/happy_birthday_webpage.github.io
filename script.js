@@ -42,7 +42,7 @@
             
             // 延迟跳转，显示成功消息
             setTimeout(function() {
-                window.location.href = 'pages/birthday.html';
+                window.location.href = 'birthday.html';
             }, 1500);
         } else {
             // 登录失败
