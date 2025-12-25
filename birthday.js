@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // If user didn't go through login page, redirect to login
     if (!localStorage.getItem('birthdayUser')) {
-        window.location.href = '../index.html';
+        window.location.href = 'index.html';
     }
 });
 
